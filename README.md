@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student who enjoys programming.</h3>
 
 
-- 🌱 I’m currently learning **Python, C++, and MySQL.**
+- 🌱 I’m currently learning **Python and MySQL.**
 
 - 📫 How to reach me **yugratna59@gmail.com**
 
